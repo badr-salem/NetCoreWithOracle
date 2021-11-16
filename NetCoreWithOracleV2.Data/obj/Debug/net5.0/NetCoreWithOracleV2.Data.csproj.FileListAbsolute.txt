@@ -1,0 +1,17 @@
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\bin\Debug\net5.0\NetCoreWithOracleV2.Data.deps.json
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\bin\Debug\net5.0\NetCoreWithOracleV2.Data.dll
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\bin\Debug\net5.0\ref\NetCoreWithOracleV2.Data.dll
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\bin\Debug\net5.0\NetCoreWithOracleV2.Data.pdb
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\bin\Debug\net5.0\NetCoreWithOracleV2.Business.dll
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\bin\Debug\net5.0\NetCoreWithOracleV2.Common.dll
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\bin\Debug\net5.0\NetCoreWithOracleV2.Business.pdb
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\bin\Debug\net5.0\NetCoreWithOracleV2.Common.pdb
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\obj\Debug\net5.0\NetCoreWithOracleV2.Data.csproj.AssemblyReference.cache
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\obj\Debug\net5.0\NetCoreWithOracleV2.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\obj\Debug\net5.0\NetCoreWithOracleV2.Data.AssemblyInfoInputs.cache
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\obj\Debug\net5.0\NetCoreWithOracleV2.Data.AssemblyInfo.cs
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\obj\Debug\net5.0\NetCoreWithOracleV2.Data.csproj.CoreCompileInputs.cache
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\obj\Debug\net5.0\NetCoreWithOracleV2.Data.csproj.CopyComplete
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\obj\Debug\net5.0\NetCoreWithOracleV2.Data.dll
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\obj\Debug\net5.0\ref\NetCoreWithOracleV2.Data.dll
+D:\My_Coding\NetCoreWithOracleV2\NetCoreWithOracleV2.Data\obj\Debug\net5.0\NetCoreWithOracleV2.Data.pdb

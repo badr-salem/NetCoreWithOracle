@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetCoreWithOracleV2.Business\NetCoreWithOracleV2.Business.csproj" />
+    <ProjectReference Include="..\NetCoreWithOracleV2.Common\NetCoreWithOracleV2.Common.csproj" />
+    <ProjectReference Include="..\NetCoreWithOracleV2.Data\NetCoreWithOracleV2.Data.csproj" />
+  </ItemGroup>
+
+</Project>

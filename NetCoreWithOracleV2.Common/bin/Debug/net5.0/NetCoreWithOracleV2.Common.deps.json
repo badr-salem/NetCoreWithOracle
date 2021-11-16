@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NetCoreWithOracleV2.Common/1.0.0": {
+        "runtime": {
+          "NetCoreWithOracleV2.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreWithOracleV2.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

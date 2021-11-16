@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Data\\NetCoreWithOracleV2.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Business\\NetCoreWithOracleV2.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Business\\NetCoreWithOracleV2.Business.csproj",
+        "projectName": "NetCoreWithOracleV2.Business",
+        "projectPath": "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Business\\NetCoreWithOracleV2.Business.csproj",
+        "packagesPath": "C:\\Users\\badrs\\.nuget\\packages\\",
+        "outputPath": "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\badrs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Common\\NetCoreWithOracleV2.Common.csproj": {
+                "projectPath": "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Common\\NetCoreWithOracleV2.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Common\\NetCoreWithOracleV2.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Common\\NetCoreWithOracleV2.Common.csproj",
+        "projectName": "NetCoreWithOracleV2.Common",
+        "projectPath": "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Common\\NetCoreWithOracleV2.Common.csproj",
+        "packagesPath": "C:\\Users\\badrs\\.nuget\\packages\\",
+        "outputPath": "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\badrs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Data\\NetCoreWithOracleV2.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Data\\NetCoreWithOracleV2.Data.csproj",
+        "projectName": "NetCoreWithOracleV2.Data",
+        "projectPath": "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Data\\NetCoreWithOracleV2.Data.csproj",
+        "packagesPath": "C:\\Users\\badrs\\.nuget\\packages\\",
+        "outputPath": "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\badrs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Business\\NetCoreWithOracleV2.Business.csproj": {
+                "projectPath": "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Business\\NetCoreWithOracleV2.Business.csproj"
+              },
+              "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Common\\NetCoreWithOracleV2.Common.csproj": {
+                "projectPath": "D:\\My_Coding\\NetCoreWithOracleV2\\NetCoreWithOracleV2.Common\\NetCoreWithOracleV2.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
